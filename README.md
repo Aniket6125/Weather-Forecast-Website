@@ -1,8 +1,4 @@
-chatbot-project/
-├── public/
+Weather Forecast-project/
 │ ├── index.html
 │ ├── style.css
 │ ├── client.js
-│ └── chatbot.png (optional image if you added)
-├── server.js
-└── package.json 
