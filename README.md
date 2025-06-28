@@ -1,6 +1,16 @@
-'''
-Weather Forecast-project/
-│ ├── index.html
-│ ├── style.css
-│ ├── client.js
-'''
+## 📂 Project Structure
+```
+Doraemon/
+│── index.html
+│── assets/
+│   ├── characters/
+│   │   ├── "webpages of characters"
+│   ├── css/
+│   │   ├── "css files"
+│   ├── img
+│   ├── js/
+│   │   ├── "javascript files"
+│   ├── vendor
+│   ├── video
+│── README.md
+```
