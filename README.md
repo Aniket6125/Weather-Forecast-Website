@@ -1,16 +1,10 @@
 ## 📂 Project Structure
 ```
-Doraemon/
-│── index.html
-│── assets/
-│   ├── characters/
-│   │   ├── "webpages of characters"
-│   ├── css/
-│   │   ├── "css files"
-│   ├── img
-│   ├── js/
-│   │   ├── "javascript files"
-│   ├── vendor
-│   ├── video
+weather-forecast-website/
+├── public/
+│   ├── index.html        
+│   ├── style.css          
+│   ├── script.js          
+│   └── weather.png       
 │── README.md
 ```
