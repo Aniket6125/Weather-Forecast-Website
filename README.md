@@ -16,7 +16,6 @@ This is a responsive Weather Forecast Website that provides real-time weather in
 ## 📂 Project Structure
 ```
 weather-forecast-website/
-├── public/
 │   ├── index.html        
 │   ├── style.css          
 │   ├── script.js          
