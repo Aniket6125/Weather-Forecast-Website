@@ -5,4 +5,4 @@ chatbot-project/
 │ ├── client.js
 │ └── chatbot.png (optional image if you added)
 ├── server.js
-└── package.json
+└── package.json 
