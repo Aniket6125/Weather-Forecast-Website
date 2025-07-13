@@ -51,11 +51,13 @@ button:not(.home-btn) {
     position: fixed;
     bottom: 10px;
     right: 20px;
-    font-family: 'Poppins', 'Times New Roman', Times, serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 14px;
-    color: #000000;
+    color: #000;
     opacity: 0.7;
+    text-align: right;
 }
+
 
 .temp {
     font-size: 2.5rem;
